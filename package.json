@@ -1,0 +1,13 @@
+{
+  "name": "d04-auth-gateway",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Dependency-free HMAC token and authorization middleware for Node.js APIs.",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
